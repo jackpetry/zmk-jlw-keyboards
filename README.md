@@ -15,7 +15,7 @@ manifest:
       import: app/west.yml
     # Add the name of the repository as a project.
     - name: zmk-config-jlw
-      remote: josh-l-wang
+      remote: jlw
       revision: main # This is the name of the branch you want to use.
   self:
     path: config
