@@ -14,7 +14,7 @@ manifest:
       revision: main
       import: app/west.yml
     # Add the name of the repository as a project.
-    - name: zmk-config-jlw
+    - name: zmk-jlw-keyboards
       remote: jlw
       revision: main # This is the name of the branch you want to use.
   self:
